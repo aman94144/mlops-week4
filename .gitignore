@@ -1,0 +1,14 @@
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Generated artifacts from our script
+artifacts/
+metrics.txt
